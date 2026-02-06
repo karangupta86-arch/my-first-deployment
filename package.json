@@ -3,15 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
- "scripts": {
-  "build": "tsc",
-  "start": "node index.js"
-},
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+    "@vercel/node": "^5.5.32",
     "typescript": "^5.9.3"
   },
   "dependencies": {
