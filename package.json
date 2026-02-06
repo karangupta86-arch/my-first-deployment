@@ -1,22 +1,5 @@
 {
   "name": "my-first-deployment",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-"scripts": {
-  "test": "echo \"No tests yet\""
-},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "devDependencies": {
-    "@vercel/node": "^5.5.32",
-    "typescript": "^5.9.3"
-  },
-  "dependencies": {
-    "@types/express": "^5.0.6",
-    "@types/node": "^25.2.0",
-    "express": "^5.2.1"
-  }
+  "dependencies": {}
 }
