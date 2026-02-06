@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
-    "start": "node index.js"
-  },
+  "build": "tsc api/index.ts --outDir api --esModuleInterop",
+  "start": "node api/index.js"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
