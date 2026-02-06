@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  "build": "tsc api/index.ts --outDir api --esModuleInterop",
-  "start": "node api/index.js"
+"scripts": {
+  "test": "echo \"No tests yet\""
 },
   "keywords": [],
   "author": "",
